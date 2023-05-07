@@ -12,7 +12,7 @@ This repository contains the design and implementation of a 5-stage MIPS CPU usi
 
 ## Educational Value 🎓
 
-This project serves as an excellent resource for learning and understanding:
+This project served as an excellent resource for learning and understanding:
 
 - The principles of MIPS CPU architecture and RISC design.
 - The intricacies of pipeline stages and hazard management.
